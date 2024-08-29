@@ -15,7 +15,7 @@ sections:
     backgroundSize: inset
     title: >-
       I’m a cloud-computing architect, container expert, consultant, coder, and
-      a bunch of other impressive titles and buzz words.
+      a bunch of other impressive titles and buzzwords.
     subtitle: >-
       This site hosts my information. I’m sharing it all to impress you with the
       hard work I’ve done in the past few years. Once you’re sufficiently
