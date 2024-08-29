@@ -19,8 +19,8 @@ sections:
     subtitle: >-
       This site hosts my info — I’m sharing it all to impress you with all the
       hard work I’ve done in the past few years. Once you’re sufficently
-      impressed, you can continue to scroll down to see more details and
-      credentials about me.
+      impressed, you can scroll down to see more project details, credentials,
+      and ramblings in the form of blog posts.
     styles:
       self:
         height: auto
