@@ -17,8 +17,8 @@ sections:
       I’m a cloud-computing architect, container expert, consultant, and a bunch
       of other impressive titles and buzz words.
     subtitle: >-
-      This site hosts my info — I’m sharing it all to impress you with all the
-      hard work I’ve done in the past few years. Once you’re sufficently
+      This site hosts my information. I’m sharing it all to impress you with the
+      hard work I’ve done in the past few years. Once you’re sufficiently
       impressed, you can scroll down to see more project details, credentials,
       and ramblings in the form of blog posts.
     styles:
