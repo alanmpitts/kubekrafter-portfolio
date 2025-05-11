@@ -2,13 +2,6 @@
 type: PageLayout
 title: About
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
@@ -25,7 +18,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -37,6 +30,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: small
       title:
         textAlign: left
       subtitle:
