@@ -37,13 +37,6 @@
             "self": {
                 "width": "wide"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/main-logo-white-transparent.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
         }
     },
     "footer": {
