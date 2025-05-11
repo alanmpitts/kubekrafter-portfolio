@@ -4,7 +4,7 @@ title: Blog
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/dark-world-map-3840-2160.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
