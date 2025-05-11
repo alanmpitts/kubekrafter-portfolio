@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/post-3.jpg",
+    "favicon": "/images/dark-world-map-3840-2160.jpg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -40,7 +40,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/favicon.svg",
+            "url": "/images/main-logo-white-transparent.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
