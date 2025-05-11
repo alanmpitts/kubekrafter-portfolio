@@ -37,6 +37,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: small
       title:
         textAlign: left
       subtitle:
