@@ -2,13 +2,6 @@
 type: PostFeedLayout
 title: Blog
 colors: colors-e
-backgroundImage:
-  type: BackgroundImage
-  url: /images/dark-world-map-3840-2160.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 postFeed:
   type: PostFeedSection
   colors: colors-f
